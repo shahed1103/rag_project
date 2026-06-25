@@ -1,7 +1,14 @@
+pydantic
 python-docx
-langchain
-scikit-learn
+pandas
 rank-bm25
-
-sentence-transformers qdrant-client
+sentence-transformers
 qdrant-client
+scikit-learn
+numpy
+python-dotenv
+google-generativeai
+fastapi
+uvicorn
+
+

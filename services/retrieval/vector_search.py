@@ -28,7 +28,6 @@ def search_qdrant(query: str, top_k: int = 5):
         output.append({
             "score": float(r.score),
             "chunk_id": payload.get("doc_id"),
-            # "chunk_id": payload.get("chunk_id"),
             "book_id": payload.get("book_id"),
             "chapter_id": payload.get("chapter_id"),
             "chapter_title": payload.get("chapter_title"),
