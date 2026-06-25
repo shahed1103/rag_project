@@ -1,0 +1,495 @@
+[{
+  "query_id": 1,
+  "query": "ما هو الفرق بين متن المعين ومتن البناء",
+  "relevant_docs": [
+    "Book4_Chapter1_0",
+    "Book4_Chapter1_1",
+    "Book4_Chapter1_2",
+    "Book4_Chapter1_3",
+    "Book4_Chapter1_4",
+    "Book4_Chapter1_5",
+    "Book4_Chapter1_6",
+    "Book4_Chapter1_7",
+    "Book4_Chapter1_8",
+    "Book4_Chapter1_9",
+    "Book4_Chapter1_10",
+    "Book4_Chapter1_11",
+    "Book4_Chapter1_12",
+    "Book4_Chapter1_13",
+    "Book4_Chapter1_14",
+    "Book4_Chapter1_15",
+    "Book4_Chapter1_16",
+    "Book4_Chapter1_17",
+    "Book4_Chapter1_18",
+    "Book8_Chapter1_0",
+    "Book8_Chapter1_1"
+  ]
+},{
+  "query_id": 2,
+  "query": "ما هو تعريف التوازن",
+  "relevant_docs": [
+    "Book2_Chapter6_0",
+    "Book2_Chapter6_1",
+    "Book2_Chapter6_7",
+    "Book2_Chapter6_8",
+    "Book2_Chapter6_27"
+  ]
+},{
+  "query_id": 3,
+  "query": "ما الفرق بين الفقه بالمعنى اللغوي والشرعي والاصطلاحي؟",
+  "relevant_docs": [
+    "Book1_Chapter1_5",
+    "Book1_Chapter1_6",
+    "Book1_Chapter1_7",
+    "Book1_Chapter1_8",
+    "Book1_Chapter1_9"
+  ]
+},{
+  "query_id": 4,
+  "query": "ما هي أدلة حجية قول الصحابي في التشريع؟",
+  "relevant_docs": [
+    "Book1_Chapter2_5",
+    "Book1_Chapter13_6",
+    "Book3_Chapter1_39",
+    "Book3_Chapter2_42",
+    "Book3_Chapter3_0",
+    "Book3_Chapter3_1",
+    "Book3_Chapter3_2",
+    "Book3_Chapter3_3",
+    "Book3_Chapter3_5"
+  ]
+},{
+  "query_id": 5,
+  "query": "لماذا اعتبر بعض العلماء مذهب الظاهرية غير معتبر في الخلاف؟",
+  "relevant_docs": [
+    "Book1_Chapter13_56",
+    "Book1_Chapter13_57",
+    "Book1_Chapter13_58",
+    "Book1_Chapter13_59"
+  ]
+},{
+  "query_id": 6,
+  "query": "لماذا سمي مذهب الظاهرية بهذا الاسم؟",
+  "relevant_docs": [
+    "Book1_Chapter13_53",
+    "Book1_Chapter13_54",
+    "Book1_Chapter13_55"
+  ]
+},{
+  "query_id": 7,
+  "query": "ما الفرق بين القياس الجلي والقياس الخفي عند أهل الظاهر؟",
+  "relevant_docs": [
+    "Book1_Chapter13_42",
+    "Book1_Chapter13_43"
+  ]
+},{
+  "query_id": 8,
+  "query": "كيف يفرق العلماء بين التجديد المحمود والتجديد المرفوض في الأصول؟",
+  "relevant_docs": [
+    "Book1_Chapter12_0",
+    "Book1_Chapter12_1",
+    "Book1_Chapter12_2",
+    "Book1_Chapter12_3",
+    "Book1_Chapter12_4",
+    "Book1_Chapter12_7",
+    "Book1_Chapter12_11"
+  ]
+},{
+  "query_id": 9,
+  "query": "هل يجوز للمجتهد اليوم مخالفة القواعد التي وضعها الإمام الشافعي؟",
+  "relevant_docs": [
+    "Book1_Chapter12_1",
+    "Book1_Chapter12_2",
+    "Book1_Chapter12_3",
+    "Book1_Chapter12_8",
+    "Book1_Chapter6_0"
+  ]
+},{
+  "query_id": 10,
+  "query": "ما هي المدارس الفقهية في زمن التابعين؟",
+  "relevant_docs": [
+    "Book1_Chapter3_4",
+    "Book1_Chapter3_5",
+    "Book1_Chapter3_6",
+    "Book1_Chapter13_0",
+    "Book1_Chapter13_0"
+  ]
+},{
+  "query_id": 11,
+  "query": "لماذا لا يعد اجتهاد الصحابة والتابعين تشريعاً بالمعنى الدقيق؟",
+  "relevant_docs": [
+    "Book1_Chapter2_0",
+    "Book1_Chapter2_1",
+    "Book1_Chapter2_4",
+    "Book1_Chapter2_5",
+    "Book1_Chapter10_5"
+  ]
+},{
+  "query_id": 12,
+  "query": "ما هي خصائص التشريع في العهد المكي والمدني؟",
+  "relevant_docs": [
+    "Book1_Chapter2_2",
+    "Book1_Chapter2_3",
+    "Book1_Chapter2_10",
+    "Book7_Chapter9_1",
+    "Book7_Chapter9_2",
+    "Book7_Chapter19_21",
+    "Book7_Chapter25_2"
+  ]
+},{
+  "query_id": 13,
+  "query": "من هم الفقهاء السبعة في مدرسة المدينة المنورة؟",
+  "relevant_docs": [
+    "Book1_Chapter3_4",
+    "Book1_Chapter3_5"
+  ]
+},{
+  "query_id": 14,
+  "query": "كيف كان التدرج في تحريم الخمر في العهد المدني؟",
+  "relevant_docs": [
+    "Book1_Chapter2_10",
+    "Book7_Chapter19_20",
+    "Book7_Chapter19_21",
+    "Book7_Chapter19_22",
+    "Book7_Chapter25_0",
+    "Book7_Chapter25_1"
+  ]
+},{
+  "query_id": 15,
+  "query": "ما هي أبرز الكتب المعتمدة لمعرفة الراجح في المذاهب الأربعة؟",
+  "relevant_docs": [
+    "Book1_Chapter10_11",
+    "Book1_Chapter4_11",
+    "Book1_Chapter6_2",
+    "Book1_Chapter6_3",
+    "Book1_Chapter6_4",
+    "Book1_Chapter10_12",
+    "Book1_Chapter7_2",
+    "Book1_Chapter7_5",
+    "Book1_Chapter7_7",
+    "Book1_Chapter7_8",
+    "Book1_Chapter11_1",
+    "Book1_Chapter11_3"
+  ]
+},{
+  "query_id": 16,
+  "query": "ما هي الدوائر الثلاث للثبات التي يجب على الشاب المصلح العناية بها لضمان استمراريته؟",
+  "relevant_docs": [
+    "Book2_Chapter1_6",
+    "Book2_Chapter1_7",
+    "Book2_Chapter1_8",
+    "Book2_Chapter1_9",
+    "Book2_Chapter1_10",
+    "Book2_Chapter1_15",
+    "Book2_Chapter1_16",
+    "Book2_Chapter1_19",
+    "Book2_Chapter1_21",
+    "Book2_Chapter1_22"
+  ]
+},{
+  "query_id": 17,
+  "query": "كيف يفرق الإسلام بين الضعف المذموم والضعف الممتدح (الذي وصف به أهل الجنة في الحديث)",
+  "relevant_docs": [
+    "Book2_Chapter1_20",
+    "Book2_Chapter2_6",
+    "Book2_Chapter2_10",
+    "Book2_Chapter2_11",
+    "Book2_Chapter2_12",
+    "Book2_Chapter2_15",
+    "Book2_Chapter2_16",
+    "Book2_Chapter2_17"
+
+  ]
+},{
+  "query_id": 18,
+  "query": "ما هي أبرز خمس وسائل ذكرتها المصادر لتحقيق السوية النفسية والاتزان في حياة المصلح؟",
+  "relevant_docs": [
+    "Book2_Chapter6_9",
+    "Book2_Chapter6_11",
+    "Book2_Chapter1_19",
+    "Book2_Chapter1_22",
+    "Book2_Chapter6_26",
+    "Book2_Chapter6_12",
+    "Book2_Chapter6_14",
+    "Book2_Chapter6_17",
+    "Book2_Chapter6_20",
+    "Book2_Chapter6_23",
+    "Book2_Chapter2_24",
+    "Book2_Chapter2_25"
+  ]
+},{
+  "query_id": 19,
+  "query": "ما الفرق بين محارات العقول و محالات العقول في التعامل مع النصوص الشرعية؟",
+  "relevant_docs": [
+    "Book3_Chapter3_33",
+    "Book3_Chapter3_34"
+  ]
+},{
+  "query_id": 20,
+  "query": "لماذا يعتبر السياق قرينة مركزية في الكشف عن مراد المتكلم في القران والسنة؟",
+  "relevant_docs": [
+    "Book3_Chapter2_22",
+    "Book3_Chapter2_23",
+    "Book3_Chapter2_24",
+    "Book3_Chapter2_25",
+    "Book3_Chapter2_26"
+  ]
+},{
+  "query_id": 21,
+  "query": "كيف رد الإمام ابن تيمية على القانون الكلي للفخر الرازي الذي يقدم العقل على النقل عند التعارض؟",
+  "relevant_docs": [
+    "Book3_Chapter3_35",
+    "Book3_Chapter3_36",
+    "Book3_Chapter3_38",
+    "Book3_Chapter3_39",
+    "Book3_Chapter3_40",
+    "Book3_Chapter3_43",
+    "Book3_Chapter3_44"
+  ]
+},{
+  "query_id": 22,
+  "query": "ما هي الأبواب الستة للـ ثلاثي المجرد وما هي رموزها المشهورة في كتب اللغة؟",
+  "relevant_docs": [
+    "Book4_Chapter1_2",
+    "Book4_Chapter1_3",
+    "Book4_Chapter1_5",
+    "Book4_Chapter1_6",
+    "Book4_Chapter1_7",
+    "Book4_Chapter1_8",
+    "Book4_Chapter1_9",
+    "Book4_Chapter1_10",
+    "Book4_Chapter1_15",
+    "Book4_Chapter2_0",
+    "Book4_Chapter2_1",
+    "Book4_Chapter2_2",
+    "Book4_Chapter2_3",
+    "Book4_Chapter2_4",
+    "Book4_Chapter2_5",
+    "Book4_Chapter2_6"
+  ]
+},{
+  "query_id": 23,
+  "query": "كيف يجمع المصلح بين دائرة العلم ودائرة الإيمان للثبات؟",
+  "relevant_docs": [
+    "Book2_Chapter1_6",
+    "Book2_Chapter1_8",
+    "Book2_Chapter1_9",
+    "Book2_Chapter1_10",
+    "Book2_Chapter1_11",
+    "Book2_Chapter1_12",
+    "Book2_Chapter1_13",
+    "Book2_Chapter1_14",
+    "Book2_Chapter1_25",
+    "Book2_Chapter2_12",
+    "Book2_Chapter2_18",
+    "Book2_Chapter6_20",
+    "Book2_Chapter6_21",
+    "Book6_Chapter3_3",
+    "Book6_Chapter3_4"
+  ]
+},{
+  "query_id": 24,
+  "query": "ما الفرق بين المنهج الفقهي لأهل الحجاز وأهل العراق؟",
+  "relevant_docs": [
+    "Book1_Chapter13_0",
+    "Book1_Chapter13_1",
+    "Book1_Chapter13_3",
+    "Book1_Chapter13_4",
+    "Book1_Chapter3_4",
+    "Book1_Chapter3_10",
+    "Book1_Chapter3_11"
+  ]
+},{
+  "query_id": 25,
+  "query": "ما هي أبرز الكتب المعتمدة في مذهب الإمام أحمد؟",
+  "relevant_docs": [
+    "Book1_Chapter10_11",
+    "Book1_Chapter10_12",
+    "Book1_Chapter6_8",
+    "Book1_Chapter6_9",
+    "Book1_Chapter6_10",
+    "Book1_Chapter6_11",
+    "Book1_Chapter6_12",
+    "Book1_Chapter7_0",
+    "Book1_Chapter7_1",
+    "Book1_Chapter7_2",
+    "Book1_Chapter7_3",
+    "Book1_Chapter7_4",
+    "Book1_Chapter7_5",
+    "Book1_Chapter7_6",
+    "Book1_Chapter7_7",
+    "Book1_Chapter7_8",
+    "Book1_Chapter7_9",
+    "Book1_Chapter7_10"
+  ]
+},{
+  "query_id": 26,
+  "query": "ما هي المعاني التي يفيدها وزن استفعل ووزن تفاعل في اللغة العربية؟",
+  "relevant_docs": [
+    "Book4_Chapter3_299",
+    "Book4_Chapter3_300",
+    "Book4_Chapter3_301",
+    "Book4_Chapter3_302"
+  ]
+},{
+  "query_id": 27,
+  "query": "كيف يفرق السياق بين التخيير والوعيد في آيات المشيئة؟",
+  "relevant_docs": [
+    "Book3_Chapter2_24",
+    "Book3_Chapter2_25",
+    "Book3_Chapter2_26"
+  ]
+},{
+  "query_id": 28,
+  "query": "لماذا يرى ابن رجب الحنبلي أن علوم المتقدمين (الصدر الأول) أفضل وأسلم من توسع المتأخرين؟",
+  "relevant_docs": [
+    "Book5_Chapter1_2",
+    "Book5_Chapter1_3",
+    "Book5_Chapter2_0",
+    "Book5_Chapter2_1",
+    "Book5_Chapter2_2",
+    "Book5_Chapter2_3",
+    "Book5_Chapter2_4",
+    "Book5_Chapter2_5",
+    "Book1_Chapter12_1",
+    "Book1_Chapter12_2"
+  ]
+},{
+  "query_id": 29,
+  "query": "ما هو منهج فقهاء المحدثين في التعامل مع الأحاديث التي توصف بـ الزيادة أو التفرد؟",
+  "relevant_docs": [
+    "Book8_Chapter2_2",
+    "Book8_Chapter2_8",
+    "Book8_Chapter4_4",
+    "Book8_Chapter4_5",
+    "Book8_Chapter4_6",
+    "Book8_Chapter4_7",
+    "Book8_Chapter4_8",
+    "Book8_Chapter4_9",
+    "Book8_Chapter4_10",
+    "Book8_Chapter4_11",
+    "Book8_Chapter4_12",
+    "Book8_Chapter4_13",
+    "Book8_Chapter4_14",
+    "Book8_Chapter5_1",
+    "Book8_Chapter5_2",
+    "Book8_Chapter5_3",
+    "Book8_Chapter5_4",
+    "Book8_Chapter7_1",
+    "Book8_Chapter7_3",
+    "Book8_Chapter7_5",
+    "Book8_Chapter7_6",
+    "Book8_Chapter7_7",
+    "Book8_Chapter7_8",
+    "Book8_Chapter7_9",
+    "Book8_Chapter7_10",
+    "Book5_Chapter1_13",
+    "Book5_Chapter3_0",
+    "Book5_Chapter3_1",
+    "Book5_Chapter3_2",
+    "Book5_Chapter3_4",
+    "Book5_Chapter3_15",
+    "Book5_Chapter3_17",
+    "Book5_Chapter3_20",
+    "Book5_Chapter3_21",
+    "Book5_Chapter3_22"
+  ]
+},{
+  "query_id": 30,
+  "query": "ما الفرق بين المنهجين في قبول حديث الآحاد والقياس؟",
+  "relevant_docs": [
+    "Book1_Chapter13_0",
+    "Book1_Chapter13_3",
+    "Book1_Chapter13_4"
+  ]
+},{
+  "query_id": 31,
+  "query": "ما هو الفرق الجوهري بين مصادر المعرفة العامة و مصادر التلقي الشرعية",
+  "relevant_docs": [
+    "Book6_Chapter1_7",
+    "Book6_Chapter1_8",
+    "Book6_Chapter1_9",
+    "Book6_Chapter1_10",
+    "Book6_Chapter1_19",
+    "Book6_Chapter1_20",
+    "Book6_Chapter1_21",
+    "Book6_Chapter1_29"
+  ]
+},{
+  "query_id": 32,
+  "query": "لماذا تعتبر موثوقية نقل السنة هي نقطة الإشكال الكبرى في الساحة الفكرية المعاصرة مقارنة بحجية القرآن؟",
+  "relevant_docs": [
+    "Book1_Chapter13_7",
+    "Book1_Chapter13_8",
+    "Book1_Chapter13_32",
+    "Book3_Chapter1_106",
+    "Book3_Chapter1_110",
+    "Book3_Chapter1_11",
+    "Book3_Chapter2_25",
+    "Book3_Chapter2_26",
+    "Book6_Chapter2_336",
+    "Book6_Chapter2_337",
+    "Book6_Chapter2_347",
+    "Book6_Chapter3_378",
+    "Book6_Chapter3_379",
+    "Book6_Chapter3_395",
+    "Book6_Chapter3_396",
+    "Book6_Chapter4_398",
+    "Book6_Chapter4_401",
+    "Book6_Chapter4_403",
+    "Book6_Chapter4_404",
+    "Book6_Chapter4_405",
+    "Book6_Chapter4_411",
+    "Book6_Chapter4_420",
+    "Book6_Chapter4_421",
+    "Book6_Chapter4_429",
+    "Book6_Chapter7_490",
+    "Book6_Chapter7_493",
+    "Book6_Chapter7_494",
+    "Book6_Chapter7_518",
+    "Book6_Chapter7_519",
+    "Book6_Chapter7_523",
+    "Book6_Chapter7_524",
+    "Book6_Chapter7_525",
+    "Book6_Chapter7_526"
+  ]
+},{
+  "query_id": 33,
+  "query": "كيف يتم تطبيق قاعدة النقيضان لا يجتمعان كحماية ذاتية للمسلم أمام الشبهات الإلحادية؟",
+  "relevant_docs": [
+    "Book6_Chapter3_465",
+    "Book6_Chapter4_488",
+    "Book6_Chapter7_550",
+    "Book6_Chapter7_551"
+  ]
+},{
+  "query_id": 34,
+  "query": "كيف يساهم فهم مقاصد الشريعة في ثبات المصلح نفسياً؟",
+  "relevant_docs": [
+    "Book1_Chapter12_22",
+    "Book1_Chapter12_23",
+    "Book1_Chapter12_26",
+    "Book1_Chapter12_27",
+    "Book1_Chapter16_14",
+    "Book2_Chapter1_8",
+    "Book2_Chapter1_9",
+    "Book2_Chapter1_10",
+    "Book2_Chapter1_11",
+    "Book2_Chapter6_20",
+    "Book2_Chapter6_21",
+    "Book6_Chapter3_13",
+    "Book6_Chapter3_14",
+    "Book6_Chapter7_0",
+    "Book6_Chapter7_1",
+    "Book7_Chapter21_9",
+    "Book7_Chapter21_10",
+    "Book7_Chapter21_15",
+    "Book7_Chapter21_17",
+    "Book7_Chapter21_18",
+    "Book7_Chapter21_20",
+    "Book7_Chapter26_29",
+    "Book7_Chapter26_31"
+  ]
+}
+
+]

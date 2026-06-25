@@ -1,0 +1,7 @@
+python-docx
+langchain
+scikit-learn
+rank-bm25
+
+sentence-transformers qdrant-client
+qdrant-client
