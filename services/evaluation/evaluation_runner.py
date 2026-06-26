@@ -37,7 +37,7 @@ def evaluate_system(ground_truth, search_fn, system_name):
 
         retrieved_docs = search_fn(query)
 
-        retrieved_ids = [r["chunk"]["doc_id"] for r in retrieved_docs]
+        retrieved_ids = [r["chunk_id"] for r in retrieved_docs]
 
         p = precision_at_k(relevant, retrieved_ids, K)
         r = recall_at_k(relevant, retrieved_ids, K)
