@@ -490,6 +490,607 @@
     "Book7_Chapter26_29",
     "Book7_Chapter26_31"
   ]
+},{
+  "query_id": 35,
+  "query": "ما هو تعريف الفقه لغةً؟",
+  "relevant_docs": [
+    "Book1_Chapter1_5"
+  ]
+},{
+  "query_id": 36,
+  "query": "ما هو موضوع علم الفقه؟",
+  "relevant_docs": [
+    "Book1_Chapter1_8"
+  ]
+},{
+  "query_id": 37,
+  "query": "ما حكم تعلم صفة الصلاة والوضوء؟",
+  "relevant_docs": [
+    "Book1_Chapter1_11"
+  ]
+},{
+  "query_id": 38,
+  "query": "من هو مؤلف موسوعة أحكام الطهارة؟",
+  "relevant_docs": [
+    "Book1_Chapter11_4"
+  ]
+},{  
+  "query_id": 39,
+  "query": "ما هي الدوائر الثلاث المعينة على الثبات؟",
+  "relevant_docs": [
+    "Book2_Chapter1_6",
+    "Book2_Chapter1_7"
+  ]
+},{
+  "query_id": 40,
+  "query": "ما هو صمام الأمان الأكبر في دائرة الإيمان؟",
+  "relevant_docs": [
+    "Book2_Chapter1_11"
+  ]
+},{
+  "query_id": 41,
+  "query": "ما هو الدعاء الذي كان يكثر النبي صلى الله عليه وسلم منه للاستعاذة من الهم؟",
+  "relevant_docs": [
+    "Book2_Chapter4_32"
+  ]
+},{
+  "query_id": 42,
+  "query": "ما هو التوازن الحقيقي؟",
+  "relevant_docs": [
+    "Book2_Chapter6_8"
+  ]
+},{
+  "query_id": 43,
+  "query": "ما هو تعريف المطاوعة في اللغة؟",
+  "relevant_docs": [
+    "Book4_Chapter3_2"
+  ]
+},{
+  "query_id": 44,
+  "query": "ما هو تعريف الفقه اصطلاحاً؟",
+  "relevant_docs": [
+    "Book1_Chapter1_6"
+  ]
+},{
+  "query_id": 45,
+  "query": "ما هو الوزن المعتمد للباب الأول من أبواب الثلاثي المجرد؟",
+  "relevant_docs": [
+    "Book4_Chapter1_3",
+    "Book4_Chapter1_5"
+  ]
+},{
+  "query_id": 46,
+  "query": "ما هو المبدأ الأساسي في تقسيم الحديث من حيث القبول والرد؟",
+  "relevant_docs": [
+    "Book8_Chapter2_0"
+  ]
+},{
+  "query_id": 47,
+  "query": "ما هو تعريف 'المطاوعة' عند الصرفيين؟",
+  "relevant_docs": [
+    "Book4_Chapter3_2"
+  ]
+},{
+  "query_id": 48,
+  "query": "ما هي الفئات الثلاث التي ينقسم إليها المسلمون من حيث العمل بالكتاب؟",
+  "relevant_docs": [
+    "Book2_Chapter6_8"
+  ]
+},{
+  "query_id": 49,
+  "query": "ماذا يسمى الحديث الذي سقط منه الصحابي في اصطلاح المحدثين؟",
+  "relevant_docs": [
+    "Book8_Chapter5_8"
+  ]
+},{
+  "query_id": 50,
+  "query": "ما هو ميزان الفعل 'استخرج' في علم الصرف؟",
+  "relevant_docs": [
+    "Book4_Chapter3_13"
+  ]
+},{
+  "query_id": 51,
+  "query": "بماذا لقب أبو بكر الصديق بعد حادثة الإسراء والمعراج؟",
+  "relevant_docs": [
+    "Book3_Chapter1_19"
+  ]
+},{
+  "query_id": 52,
+  "query": "ما هي حروف الحلق الستة في اللغة؟",
+  "relevant_docs": [
+    "Book4_Chapter2_2"
+  ]
+},{
+  "query_id": 53,
+  "query": "ما هو الفرق الزمني التقريبي بين صلح الحديبية وغزوة خيبر؟",
+  "relevant_docs": [
+    "Book7_Chapter28_1"
+  ]
+},{
+  "query_id": 54,
+  "query": "ما هي الآية التي أرشدت النبي ﷺ للهجرة في سورة الإسراء؟",
+  "relevant_docs": [
+    "Book7_Chapter15_2"
+  ]
+},{
+  "query_id": 55,
+  "query": "ما هو تعريف 'الأجوف' عند الصرفيين؟",
+  "relevant_docs": [
+    "Book4_Chapter5_5"
+  ]
+},{
+  "query_id": 56,
+  "query": "ما هو الغرض الأساسي من عملية المخاطبة والتواصل باللغة؟",
+  "relevant_docs": [
+    "Book3_Chapter2_0"
+  ]
+},{
+  "query_id": 57,
+  "query": "ما هي الوظيفة الأولى للنبي ﷺ المذكورة في سورة الجمعة؟",
+  "relevant_docs": [
+    "Book7_Chapter1_9"
+  ]
+},{
+  "query_id": 58,
+  "query": "ما هو حكم 'قول الصحابي' عند جماهير العلماء؟",
+  "relevant_docs": [
+    "Book1_Chapter2_5"
+  ]
+},{
+  "query_id": 59,
+  "query": "ما هو معنى كلمة 'حرضاً' الذي ذكره البخاري في قصة يوسف؟",
+  "relevant_docs": [
+    "Book2_Chapter3_9"
+  ]
+},{
+  "query_id": 60,
+  "query": "أين تأسست المدرسة الفقهية للصحابي عبد الله بن مسعود؟",
+  "relevant_docs": [
+    "Book1_Chapter3_0"
+  ]
+},{
+  "query_id": 61,
+  "query": "ماذا يورث العلم بالسبب في فهم القرآن الكريم؟",
+  "relevant_docs": [
+    "Book3_Chapter2_38"
+  ]
+},{
+  "query_id": 62,
+  "query": "ما هو تعريف 'اللفيف المقرون' عند الصرفيين؟",
+  "relevant_docs": [
+    "Book4_Chapter5_6"
+  ]
+},{
+  "query_id": 63,
+  "query": "أين وقع زواج النبي ﷺ بأم المؤمنين ميمونة رضي الله عنها؟",
+  "relevant_docs": [
+    "Book7_Chapter30_6"
+  ]
+},{
+  "query_id": 64,
+  "query": "ما هو تعريف الفقه في اللغة؟",
+  "relevant_docs": [
+    "Book1_Chapter1_5"
+  ]
+},{
+  "query_id": 65,
+  "query": "ما هو موضوع علم الفقه؟",
+  "relevant_docs": [
+    "Book1_Chapter1_8"
+  ]
+},{
+  "query_id": 66,
+  "query": "ما حكم تعلم صفة الصلاة والوضوء؟",
+  "relevant_docs": [
+    "Book1_Chapter1_11"
+  ]
+},{
+  "query_id": 67,
+  "query": "ما هي الدوائر الثلاث المعينة على الثبات؟",
+  "relevant_docs": [
+    "Book2_Chapter1_6"
+  ]
+},{
+  "query_id": 68,
+  "query": "ما هو الفرق بين الهم والغم؟",
+  "relevant_docs": [
+    "Book2_Chapter3_9"
+  ]
+},{
+  "query_id": 69,
+  "query": "كم عدد حروف الحلق في علم التجويد؟",
+  "relevant_docs": [
+    "Book4_Chapter2_2"
+  ]
+},{
+  "query_id": 70,
+  "query": "ما المقصود بالفعل 'الأجوف' عند الصرفيين؟",
+  "relevant_docs": [
+    "Book4_Chapter5_5"
+  ]
+},{
+  "query_id": 71,
+  "query": "ما هو تعريف الفعل 'الناقص' في الصرف؟",
+  "relevant_docs": [
+    "Book4_Chapter5_6"
+  ]
+},{
+  "query_id": 72,
+  "query": "ماذا يسمى الفعل الذي يكون في فائه حرف علة؟",
+  "relevant_docs": [
+    "Book4_Chapter5_4"
+  ]
+},{
+  "query_id": 73,
+  "query": "في أي سورة تم تناول حادثة تحويل القبلة بالتفصيل؟",
+  "relevant_docs": [
+    "Book7_Chapter16_27"
+  ]
+},{
+  "query_id": 74,
+  "query": "ما هو أصل الفعل 'مدَّ' في علم الصرف؟",
+  "relevant_docs": [
+    "Book4_Chapter5_8"
+  ]
+},{
+  "query_id": 75,
+  "query": "ما المقصود بـ 'المطالعة المقصودة' عند دراسة السيرة النبوية؟",
+  "relevant_docs": [
+    "Book7_Chapter1_8"
+  ]
+},{
+  "query_id": 76,
+  "query": "ما هي الفائدة من معرفة 'أسباب النزول' عند المفسرين؟",
+  "relevant_docs": [
+    "Book3_Chapter2_38"
+  ]
+},{
+  "query_id": 77,
+  "query": "ما هو تعريف 'الظن بالله' الذي ذكره ابن القيم في سياق الابتلاءات؟",
+  "relevant_docs": [
+    "Book7_Chapter21_17"
+  ]
+},{
+  "query_id": 78,
+  "query": "ماذا يسمى الفعل الذي تكون عينه ولامه من جنس واحد في الصرف؟",
+  "relevant_docs": [
+    "Book4_Chapter5_7"
+  ]
+},{
+  "query_id": 79,
+  "query": "ما هي الميزة الأساسية لكتاب 'بداية المجتهد' لابن رشد الحفيد؟",
+  "relevant_docs": [
+    "Book1_Chapter11_2"
+  ]
+},{
+  "query_id": 80,
+  "query": "ما هو تعريف 'التدليس' باختصار عند المحدثين؟",
+  "relevant_docs": [
+    "Book8_Chapter6_5"
+  ]
+},{
+  "query_id": 81,
+  "query": "ما هي الغاية من بناء المسجد النبوي فور وصول النبي ﷺ للمدينة؟",
+  "relevant_docs": [
+    "Book7_Chapter16_13"
+  ]
+},{
+  "query_id": 82,
+  "query": "ما هو الفرق بين 'المنطوق' و 'المفهوم' في دلالات النصوص؟",
+  "relevant_docs": [
+    "Book6_Chapter2_5"
+  ]
+},{
+  "query_id": 83,
+  "query": "ما المقصود بـ 'التدرج التشريعي' في زمن النبوة؟",
+  "relevant_docs": [
+    "Book1_Chapter2_10"
+  ]
+},{
+  "query_id": 84,
+  "query": "ما هو تعريف اللفيف المفروق عند الصرفيين؟",
+  "relevant_docs": [
+    "Book4_Chapter5_7"
+  ]
+},{
+  "query_id": 85,
+  "query": "ما هو ضابط الفعل المضاعف في علم الصرف؟",
+  "relevant_docs": [
+    "Book4_Chapter5_7"
+  ]
+},{
+  "query_id": 86,
+  "query": "ما هو الفرق الجوهري بين الهم والغم من حيث الزمن؟",
+  "relevant_docs": [
+    "Book2_Chapter3_9"
+  ]
+},{
+  "query_id": 87,
+  "query": "ما هو الفعل السالم حسب تقسيمات الصرفيين؟",
+  "relevant_docs": [
+    "Book4_Chapter5_2"
+  ]
+},{
+  "query_id": 88,
+  "query": "أين تأسست المدرسة الفقهية للصحابي عبد الله بن مسعود؟",
+  "relevant_docs": [
+    "Book1_Chapter3_0"
+  ]
+},{
+  "query_id": 89,
+  "query": "ما هي حروف الحلق الستة في اللغة العربية؟",
+  "relevant_docs": [
+    "Book4_Chapter2_2"
+  ]
+},{
+  "query_id": 90,
+  "query": "ما هو تعريف الحديث المسند باختصار؟",
+  "relevant_docs": [
+    "Book8_Chapter5_8"
+  ]
+},{
+  "query_id": 91,
+  "query": "ما هو الغرض من إرسال النبي ﷺ الرسائل إلى الملوك؟",
+  "relevant_docs": [
+    "Book7_Chapter29_13"
+  ]
+},{
+  "query_id": 92,
+  "query": "ما المقصود بالتواتر العملي في نقل شعائر الإسلام؟",
+  "relevant_docs": [
+    "Book6_Chapter4_16"
+  ]
+},{
+  "query_id": 93,
+  "query": "ما هو موضوع علم الفقه وعمّ يبحث؟",
+  "relevant_docs": [
+    "Book1_Chapter1_8"
+  ]
+},{
+  "query_id": 94,
+  "query": "ما هو تعريف الفعل 'المهموز' في علم الصرف؟",
+  "relevant_docs": [
+    "Book4_Chapter5_17"
+  ]
+},{
+  "query_id": 95,
+  "query": "متى انتهت مرحلة التشريع في تاريخ الفقه؟",
+  "relevant_docs": [
+    "Book1_Chapter10_5"
+  ]
+},{
+  "query_id": 96,
+  "query": "ما هي حروف الزيادة المجموعة في كلمة واحدة؟",
+  "relevant_docs": [
+    "Book4_Chapter2_8"
+  ]
+},{
+  "query_id": 97,
+  "query": "أين تأسست المدرسة الفقهية للصحابي عبد الله بن عباس؟",
+  "relevant_docs": [
+    "Book1_Chapter3_2"
+  ]
+},{
+  "query_id": 98,
+  "query": "ما هو تعريف 'الغَم' حسب ما ذكره ابن حجر؟",
+  "relevant_docs": [
+    "Book2_Chapter3_9"
+  ]
+},{
+  "query_id": 99,
+  "query": "ماذا يسمى الفعل الذي يكون عينه ولامه من جنس واحد؟",
+  "relevant_docs": [
+    "Book4_Chapter5_7"
+  ]
+},{
+  "query_id": 100,
+  "query": "ما هو المرجع الأساسي لمعرفة المسائل على مذهب الإمام أبي حنيفة؟",
+  "relevant_docs": [
+    "Book1_Chapter10_11"
+  ]
+},{
+  "query_id": 101,
+  "query": "ما هو تعريف 'المطاوعة' في اللغة؟",
+  "relevant_docs": [
+    "Book4_Chapter3_2"
+  ]
+},{
+  "query_id": 102,
+  "query": "كم عدد شروط الحديث الصحيح التي ذكرها ابن الصلاح؟",
+  "relevant_docs": [
+    "Book6_Chapter7_4"
+  ]
+},{
+  "query_id": 103,
+  "query": "ما هو الفعل 'المثال' عند علماء الصرف؟",
+  "relevant_docs": [
+    "Book4_Chapter5_4"
+  ]
+},{
+  "query_id": 104,
+  "query": "ما هو تعريف اللفيف المفروق عند الصرفيين؟",
+  "relevant_docs": [
+    "Book4_Chapter5_7"
+  ]
+},{
+  "query_id": 105,
+  "query": "من هو الصحابي الذي تولى قيادة الجيش في معركة مؤتة وفتح الله على يديه بعد استشهاد القادة الثلاثة؟",
+  "relevant_docs": [
+    "Book7_Chapter30_22"
+  ]
+},{
+  "query_id": 106,
+  "query": "ما هو تعريف 'الحديث المسند' عند المحدثين عندما يكون مقابلاً للمرسل؟",
+  "relevant_docs": [
+    "Book8_Chapter5_9"
+  ]
+},{
+  "query_id": 107,
+  "query": "ما هو الفرق الجوهري بين الهم والغم من حيث الزمن؟",
+  "relevant_docs": [
+    "Book2_Chapter3_9"
+  ]
+},{
+  "query_id": 108,
+  "query": "كم عدد العمرات التي اعتمرها النبي صلى الله عليه وسلم؟",
+  "relevant_docs": [
+    "Book7_Chapter32_26"
+  ]
+},{
+  "query_id": 109,
+  "query": "ما هما المعنيان اللذان تحتملهما كلمة 'القرء' في اللغة العربية؟",
+  "relevant_docs": [
+    "Book3_Chapter3_15"
+  ]
+},{
+  "query_id": 110,
+  "query": "ما هو ميزان الفعل 'استخرج' في علم الصرف؟",
+  "relevant_docs": [
+    "Book4_Chapter3_13"
+  ]
+},{
+  "query_id": 111,
+  "query": "أين تأسست المدرسة الفقهية للصحابي عبد الله بن عمر؟",
+  "relevant_docs": [
+    "Book1_Chapter3_2"
+  ]
+},{
+  "query_id": 112,
+  "query": "ما هي حروف الزيادة المجموعة في قولك 'سالتمونيها'؟",
+  "relevant_docs": [
+    "Book4_Chapter2_8"
+  ]
+},{
+  "query_id": 113,
+  "query": "ما هو تعريف 'العلة' في الحديث النبوي باختصار؟",
+  "relevant_docs": [
+    "Book8_Chapter7_25"
+  ]
+},{
+  "query_id": 114,
+  "query": "ما هو موضوع علم الفقه وبماذا يبحث؟",
+  "relevant_docs": [
+    "Book1_Chapter1_6"
+  ]
+},{
+  "query_id": 115,
+  "query": "أين تقع المدرسة الفقهية التي أسسها الصحابي عبد الله بن مسعود؟",
+  "relevant_docs": [
+    "Book1_Chapter3_0"
+  ]
+},{
+  "query_id": 116,
+  "query": "ما هي الغاية الأساسية من بناء المسجد النبوي فور وصول النبي ﷺ للمدينة؟",
+  "relevant_docs": [
+    "Book7_Chapter16_13"
+  ]
+},{
+  "query_id": 117,
+  "query": "ما المقصود بمصطلح 'المطاوعة' عند الصرفيين؟",
+  "relevant_docs": [
+    "Book4_Chapter3_2"
+  ]
+},{
+  "query_id": 118,
+  "query": "ما هو تعريف 'المحكم' في القرآن حسب ما ذكره الإمام الطبري؟",
+  "relevant_docs": [
+    "Book3_Chapter3_17"
+  ]
+},{
+  "query_id": 119,
+  "query": "لماذا شرع النبي ﷺ 'الرمل' في الأشواط الثلاثة الأولى من الطواف؟",
+  "relevant_docs": [
+    "Book7_Chapter16_18"
+  ]
+},{
+  "query_id": 120,
+  "query": "ما هو تعريف 'الحديث المنكر' في كتاب نخبة الفكر؟",
+  "relevant_docs": [
+    "Book8_Chapter4_2"
+  ]
+},{
+  "query_id": 121,
+  "query": "ما هو المعنى الذي ذكره البخاري لكلمة 'حرضاً' في قصة يوسف عليه السلام؟",
+  "relevant_docs": [
+    "Book2_Chapter3_9"
+  ]
+},{
+  "query_id": 122,
+  "query": "ما هو تعريف الفعل 'المثال' عند علماء الصرف؟",
+  "relevant_docs": [
+    "Book4_Chapter5_4"
+  ]
+},{
+  "query_id": 123,
+  "query": "ما المقصود بالفعل 'الأجوف' في علم الصرف؟",
+  "relevant_docs": [
+    "Book4_Chapter5_5"
+  ]
+},{
+  "query_id": 124,
+  "query": "ما هو أثر دراسة الفقه بنفسية غير مقتنعة بجدوى المذاهب؟",
+  "relevant_docs": [
+    "Book1_Chapter1_2"
+  ]
+},{
+  "query_id": 125,
+  "query": "لماذا لم يكسر النبي ﷺ الأصنام عند طوافه في عمرة القضاء؟",
+  "relevant_docs": [
+    "Book7_Chapter30_5"
+  ]
+},{
+  "query_id": 126,
+  "query": "ما هو وزن الفعل 'سَبَّحَ' في علم الصرف؟",
+  "relevant_docs": [
+    "Book4_Chapter2_13"
+  ]
+},{
+  "query_id": 127,
+  "query": "أي دائرة تعتبر 'الظرف الحامل' في العلاقة بين دوائر الثبات الثلاث؟",
+  "relevant_docs": [
+    "Book2_Chapter1_25"
+  ]
+},{
+  "query_id": 128,
+  "query": "ما هو حكم 'زيادة الثقة' في المتن إذا لم يذكرها جملة الثقات الآخرين؟",
+  "relevant_docs": [
+    "Book8_Chapter7_6"
+  ]
+},{
+  "query_id": 129,
+  "query": "ما هي الخطورة في دعوى الاكتفاء بعلم 'مقاصد الشريعة' عن علم الأصول؟",
+  "relevant_docs": [
+    "Book1_Chapter12_3"
+  ]
+},{
+  "query_id": 130,
+  "query": "ماذا يسمى الفعل الذي اجتمع فيه حرفا علة دون فاصل بينهما؟",
+  "relevant_docs": [
+    "Book4_Chapter5_6"
+  ]
+},{
+  "query_id": 131,
+  "query": "هل يعتبر الخلاف في 'نقض الوضوء من أكل لحم الإبل' خلافاً سائغاً؟",
+  "relevant_docs": [
+    "Book5_Chapter3_2"
+  ]
+},{
+  "query_id": 132,
+  "query": "ما هي الوظائف الثلاث للبعثة النبوية المذكورة في القرآن؟",
+  "relevant_docs": [
+    "Book7_Chapter1_9"
+  ]
+},{
+  "query_id": 133,
+  "query": "ما هي مقولة الإمام أحمد المشهورة في المفاضلة بين الحديث الضعيف ورأي الرجال؟",
+  "relevant_docs": [
+    "Book8_Chapter3_0"
+  ]
+},{
+  "query_id": 134,
+  "query": "ما هي أول خطوة لضبط علم الفقه؟",
+  "relevant_docs": [
+    "Book1_Chapter1_2"
+  ]
 }
-
 ]

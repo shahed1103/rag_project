@@ -11,7 +11,7 @@ from services.evaluation.evaluate import (
 from services.retrieval.tfidf_search import search_tfidf
 from services.retrieval.bm25_search import search_bm25
 from services.retrieval.vector_search import search_qdrant
-from services.retrieval.hybrid_search import hybrid_search
+from services.retrieval.fusion_search import fusion_search
 
 
 K = 10
@@ -75,7 +75,7 @@ def main():
     report.append(evaluate_system(ground_truth, search_tfidf, "TF-IDF"))
     report.append(evaluate_system(ground_truth, search_bm25, "BM25"))
     report.append(evaluate_system(ground_truth, search_qdrant, "Embedding"))
-    report.append(evaluate_system(ground_truth, hybrid_search, "Hybrid"))
+    report.append(evaluate_system(ground_truth, fusion_search, "Fusion"))
 
     df = pd.DataFrame(report)
 
