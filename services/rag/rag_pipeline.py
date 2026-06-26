@@ -30,15 +30,6 @@ def ask(question: str):
     # llm
     answer = ask_gemini(prompt)
 
-    # sources = []
-
-    # for chunk in chunks:
-
-    #     sources.append({
-    #         "book_id": chunk["book_id"],
-    #         "chapter_id": chunk["chapter_id"],
-    #         "chapter_title": chunk["chapter_title"]
-    #     })
     sources_map = {}
 
     for chunk in chunks:
