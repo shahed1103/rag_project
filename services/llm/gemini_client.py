@@ -6,6 +6,8 @@ load_dotenv()
 
 API_KEY = os.getenv("GEMINI_API_KEY")
 
+print(os.getenv("GEMINI_API_KEY"))
+
 genai.configure(api_key=API_KEY)
 
 model = genai.GenerativeModel(

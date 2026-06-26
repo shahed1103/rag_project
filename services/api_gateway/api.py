@@ -1,12 +1,19 @@
 from fastapi import FastAPI
+from fastapi.middleware.cors import CORSMiddleware
+
 from pydantic import BaseModel
 
 from services.rag.rag_pipeline import ask
 
 
-app = FastAPI(
-    title="Islamic RAG API",
-    version="1.0.0"
+app = FastAPI()
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],      # أثناء التطوير
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
 )
 
 
@@ -17,8 +24,4 @@ class QuestionRequest(BaseModel):
 @app.post("/ask")
 def ask_question(request: QuestionRequest):
 
-    result = ask(
-        request.question
-    )
-
-    return result
+    return ask(request.question)
