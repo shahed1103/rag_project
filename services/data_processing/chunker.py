@@ -8,7 +8,6 @@ def chunk_text(text, chunk_size=250, overlap=40):
         end = start + chunk_size
         chunk = " ".join(words[start:end])
 
-        # 🔥 IMPORTANT FIX
         if len(chunk.split()) < 30:
             start += chunk_size - overlap
             continue

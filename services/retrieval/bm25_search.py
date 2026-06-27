@@ -7,11 +7,9 @@ from services.retrieval.query_bm25 import build_query_bm25
 
 BASE_DIR = Path(__file__).resolve().parents[2]
 
-# تحميل model
 with open(BASE_DIR / "output" / "bm25" / "bm25_model.pkl", "rb") as f:
     bm25 = pickle.load(f)
 
-# تحميل metadata
 with open(BASE_DIR / "output" / "bm25" / "bm25_metadata.json", "r", encoding="utf-8") as f:
     metadata = json.load(f)
 

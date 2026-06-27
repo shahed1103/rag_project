@@ -35,11 +35,9 @@ def build_bm25():
 
     os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-    # حفظ النموذج
     with open(BM25_MODEL_PATH, "wb") as f:
         pickle.dump(bm25, f)
 
-    # حفظ metadata
     metadata = [
         {
             "doc_id": c["doc_id"],

@@ -15,7 +15,6 @@ def build_query_embedding(query: str):
     processed = process_query(query)
     clean = processed["clean_query"]
 
-    # الأفضل لهذا الموديل: بدون artificial prompt
     return model.encode(
         clean,
         normalize_embeddings=True

@@ -1,7 +1,6 @@
 from qdrant_client import QdrantClient
 from .query_embedding import build_query_embedding
 
-# الاتصال بـ Qdrant المحلي
 client = QdrantClient(path="output/qdrant")
 
 COLLECTION_NAME = "rag_chunks"
